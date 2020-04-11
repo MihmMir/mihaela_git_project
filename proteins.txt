@@ -4,6 +4,3 @@ Hemoglobin-alpha   HUMAN     HBA_HUMAN     P69905
 Hemoglobin-beta    HUMAN     HBA_HUMAN     P68871
 PFKM               HUMAN     PFKAM_HUMAN   PO8237
 Pfkm               Mouse.    Pfkam_mouse   P47857
-
-
-This is clearly another mistake!
